@@ -1,0 +1,31 @@
+_repo: Reproduction-par-les-proc-d-s-h-liographiques-Motteroz-du-Carnet-de-Robespierre-trouv--sur-lu__31022
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robespierre, Maximilien
+    alias: Robespierre, Maximilien Marie Isidore de
+    birthdate: 1758
+    deathdate: 1794
+    gutenberg_agent_id: '34151'
+    url: http://www.gutenberg.org/2009/agents/34151
+    wikipedia: http://fr.wikipedia.org/wiki/Maximilien_Robespierre
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2010-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31022'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Sources'
+- !lcc 'DC'
+- !lcsh 'Robespierre, Maximilien, 1758-1794'
+title: Reproduction, par les procédés héliographiques Motteroz, du Carnet de Robespierre
+  trouvé sur lui au moment de son arrestation
+url: http://www.gutenberg.org/ebooks/31022
