@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34151
     wikipedia: http://fr.wikipedia.org/wiki/Maximilien_Robespierre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31022#Reproduction-par-les-proc-d-s-h-liographiques-Motteroz-du-Carnet-de-Robespierre-trouv--sur-lu_
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2010-01-20'
 gutenberg_type: Text
